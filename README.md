@@ -6,7 +6,8 @@ Purpose: EDA on Beers and Breweries data Notes: Audience ready files are in the 
 
 Beers.csv Breweries.csv
 
-**Final Reports: **
+**Final Reports:**
+
 - Unit_8_Case_Study_1_Beers_and_Breweries_EDA.pptx (Presentation) 
 - Unit_8_Case_Study_01_Final.html (Report) Unit_8_Case_Study_01_Final.Rmd (Report Rmarkdown)
 
