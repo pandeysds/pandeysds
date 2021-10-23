@@ -1,5 +1,5 @@
 ---
-title: 'Case Study 1: Beers and Breweries'
+title: ' Case Study 1: Beers and Breweries'
 author: "Shikha Pandey"
 date: "October 6, 2021"
 output: html_document
